@@ -42,3 +42,4 @@ const controller={
     deleteJobs
 }
 module.exports=controller;
+console.log(__dirname);
